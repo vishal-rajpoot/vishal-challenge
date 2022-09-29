@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vishal-challenge/static/css/main.3a7a84b9.css",
+    "main.js": "/vishal-challenge/static/js/main.6630bb9f.js",
+    "index.html": "/vishal-challenge/index.html",
+    "main.3a7a84b9.css.map": "/vishal-challenge/static/css/main.3a7a84b9.css.map",
+    "main.6630bb9f.js.map": "/vishal-challenge/static/js/main.6630bb9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7a84b9.css",
+    "static/js/main.6630bb9f.js"
+  ]
+}
