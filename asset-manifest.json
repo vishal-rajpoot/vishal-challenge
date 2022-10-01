@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/vishal-challenge/static/css/main.3c69a4ea.css",
-    "main.js": "/vishal-challenge/static/js/main.5784f281.js",
-    "static/media/burger.jpeg": "/vishal-challenge/static/media/burger.a264aebc643407f64b08.jpeg",
+    "main.css": "/vishal-challenge/static/css/main.957466bd.css",
+    "main.js": "/vishal-challenge/static/js/main.0a4adf88.js",
     "index.html": "/vishal-challenge/index.html",
-    "main.3c69a4ea.css.map": "/vishal-challenge/static/css/main.3c69a4ea.css.map",
-    "main.5784f281.js.map": "/vishal-challenge/static/js/main.5784f281.js.map"
+    "main.957466bd.css.map": "/vishal-challenge/static/css/main.957466bd.css.map",
+    "main.0a4adf88.js.map": "/vishal-challenge/static/js/main.0a4adf88.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c69a4ea.css",
-    "static/js/main.5784f281.js"
+    "static/css/main.957466bd.css",
+    "static/js/main.0a4adf88.js"
   ]
 }
